@@ -1,0 +1,9 @@
+node_modules
+dist
+coverage
+.env
+# db.json holds your own accounts and data, so it stays on your computer.
+# Copy db.example.json to db.json to get started.
+db.json
+*.log
+.DS_Store
